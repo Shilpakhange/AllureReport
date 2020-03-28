@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FreeCRM Applicatin automation testsuite" duration-ms="69701" started-at="2020-01-17T14:46:12 IST" finished-at="2020-01-17T14:47:21 IST">
+    <groups>
+    </groups>
+    <test name="FreeCRM app test cases" duration-ms="69701" started-at="2020-01-17T14:46:12 IST" finished-at="2020-01-17T14:47:21 IST">
+      <class name="com.crm.qa.testcases.TestLoginpage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.TestLoginpage@34645867]" name="setUp" is-config="true" duration-ms="18477" started-at="2020-01-17T14:46:12 IST" finished-at="2020-01-17T14:46:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateloginfunctionalityTest()[pri:1, instance:com.crm.qa.testcases.TestLoginpage@34645867]" name="validateloginfunctionalityTest" duration-ms="13144" started-at="2020-01-17T14:46:30 IST" description="Verifying login functionality test" finished-at="2020-01-17T14:46:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateloginfunctionalityTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.TestLoginpage@34645867]" name="tearDown" is-config="true" duration-ms="680" started-at="2020-01-17T14:46:44 IST" finished-at="2020-01-17T14:46:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.TestLoginpage@34645867]" name="setUp" is-config="true" duration-ms="17012" started-at="2020-01-17T14:46:44 IST" finished-at="2020-01-17T14:47:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validatesignuplinkTest()[pri:2, instance:com.crm.qa.testcases.TestLoginpage@34645867]" name="validatesignuplinkTest" duration-ms="210" started-at="2020-01-17T14:47:01 IST" description="Verifying signup link test" finished-at="2020-01-17T14:47:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatesignuplinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.TestLoginpage@34645867]" name="tearDown" is-config="true" duration-ms="1697" started-at="2020-01-17T14:47:02 IST" finished-at="2020-01-17T14:47:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.TestLoginpage@34645867]" name="setUp" is-config="true" duration-ms="16994" started-at="2020-01-17T14:47:03 IST" finished-at="2020-01-17T14:47:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginpagetitleTest()[pri:3, instance:com.crm.qa.testcases.TestLoginpage@34645867]" name="loginpagetitleTest" duration-ms="18" started-at="2020-01-17T14:47:20 IST" description="Verify login page title test" finished-at="2020-01-17T14:47:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpagetitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.TestLoginpage@34645867]" name="tearDown" is-config="true" duration-ms="1173" started-at="2020-01-17T14:47:20 IST" finished-at="2020-01-17T14:47:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.TestLoginpage -->
+    </test> <!-- FreeCRM app test cases -->
+  </suite> <!-- FreeCRM Applicatin automation testsuite -->
+</testng-results>
